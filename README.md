@@ -21,5 +21,5 @@ When you double-click a `.zst` or `.dem` file, this program automatically places
 
 1. Download the latest build from the [releases page](https://github.com/dykomenko/cs2_demo_handler/releases/latest).
 2. Extract the archive to any folder.
-3. Open the `cs2_path.txt` file and paste your Counter-Strike 2 installation path, for example:
+3. Open the `cs2_path.txt` file and paste your Counter-Strike 2 installation path. The default path is already in the file.
 
